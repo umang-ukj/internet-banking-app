@@ -1,0 +1,19 @@
+2025-08-13 23:42:12,374 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-08-13 23:44:57,482 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.internet.banking:service-registry:0.0.1-SNAPSHOT @ D:\Eclipse_workspace\internet banking\service-registry\pom.xml.
+2025-08-13 23:45:01,246 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /service-registry/src/main/java
+2025-08-13 23:45:01,246 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /service-registry/src/main/resources
+2025-08-13 23:45:01,262 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /service-registry/src/main/resources
+2025-08-13 23:45:01,282 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /service-registry/src/test/java
+2025-08-13 23:45:03,444 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2025-08-13 23:45:06,949 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-13 23:45:07,016 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-13 23:45:07,023 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Eclipse_workspace\internet banking\service-registry\src\test\resources
+2025-08-13 23:45:41,631 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-13 23:45:41,648 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-13 23:45:41,653 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Eclipse_workspace\internet banking\service-registry\src\test\resources
+2025-08-13 23:46:33,357 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-13 23:46:33,361 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-13 23:46:33,367 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Eclipse_workspace\internet banking\service-registry\src\test\resources
+2025-08-13 23:46:36,997 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-13 23:46:37,005 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-13 23:46:37,019 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Eclipse_workspace\internet banking\service-registry\src\test\resources
