@@ -1,5 +1,5 @@
 package com.internet.banking.bankingservice.service;
-
+//class to manage transaction btwn 2 accounts and utility payments
 import org.springframework.stereotype.Service;
 
 import com.internet.banking.bankingservice.dto.BankAccountDto;
