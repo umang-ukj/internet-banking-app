@@ -28,7 +28,14 @@ spring:
           predicates:
             - Path=/fund-transfer/**
           filters:
-            - StripPrefix=1  
+            - StripPrefix=1 
+        ## UTILITY PAYMENT SERVICE 
+        - id: utility-payment-service
+          uri: lb://utility-payment-service
+          predicates:
+            - Path=/utility-payment/**
+          filters:
+            - StripPrefix=1
 
 eureka:
   client:
